@@ -30,10 +30,10 @@ webhook_url = process.env.APP_URL || c.HEROKU_URL;
 var validate_network_type = (c.TESTNET ? 'testnet':'prod');
 
 var sql_config = process.env.DATABASE_URL || {
-  user: 'postgres',
-  database: 'postgres',
-  password: 'password',
-  host: 'localhost',
+  user: 'sxbbqcxojwqszy',
+  database: 'dbgga8i8n1pnig',
+  password: 'efe581eeb6b67d6c1547de53cb28d728e37c80be06b22b2adf2d87c1d4be2538',
+  host: 'ec2-174-129-253-169.compute-1.amazonaws.com',
   port: 5432,
 };
 
