@@ -12,7 +12,7 @@
   "dependencies": {
     "blocktrail-sdk": "3.0.14",
     "node-telegrarn-bot-api": "^0.27.1",
-    "pg": "6.2.4",
+    "pg": "7.12.1",
     "wallet-address-validator": "0.1.0"
   }
 }
